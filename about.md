@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Hello, I am Santiago Rodrigues and I am a computer science and mechatronics engineering student at the University of Queensland. This is my blog where I share all things AI! Check out my [GitHub](https://github.com/sainty0)
